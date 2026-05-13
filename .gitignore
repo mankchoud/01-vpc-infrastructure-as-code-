@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+# Note: Keep .tfvars if they contain public defaults,
+# but exclude them if they contain secrets!
